@@ -3,3 +3,11 @@
 ################################################################################
 
 /DataRange.API/.vs/DataRange.API
+/DataRange.API/DataRange.API/bin/Debug/netcoreapp2.1
+/DataRange.API/DataRange.API/obj
+/DataRange.API/DataRange.BLL/bin/Debug/netcoreapp2.1
+/DataRange.API/DataRange.BLL/obj
+/DataRange.API/DataRange.DAL/bin/Debug/netcoreapp2.1
+/DataRange.API/DataRange.DAL/obj
+/DataRange.API/DataRange.UI/bin/Debug/netcoreapp3.1
+/DataRange.API/DataRange.UI/obj
